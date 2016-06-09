@@ -1,0 +1,27 @@
+Assigments:
+
+1. Write a code to find the count of specfic string on the page using selenium wegdriver 2.0.
+
+2. Write a programme to find the number of link on the Webpage using selenium webdiver 2.0.
+
+3. Write the number on number od un readed mail in gmail account.
+
+
+
+Programme 1:  
+
+use getsource() method to get the view source of page.
+
+then Use Split function of java api to get te counts.
+
+Programe 2:
+
+user findelements method of selenium to solve the problems.
+
+
+Progmmme 3:
+
+use Inbox xpath to code this problem.
+
+
+We will disscuss this problems in trainning sessions.
